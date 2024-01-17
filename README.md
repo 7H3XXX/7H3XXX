@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @7H3XXX, my real name is Marc-Antoine Ngaba 
-- 👀 I’m interested in JavaScript ecosystem 
-- 🌱 I’m currently learning Remix
+- 👀 I’m interested in JavaScript ecosystem (React, NextJS, Node) and I use Java(Spring) too. 
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on JavaScript related projects to immersive experiences that bring value to users.
-- 📫 How to reach me: marcantoine826@gmail.com
+- 📫 How to reach me: ngaba.marcantoine@gmail.com
 
 <!---
 7H3XXX/7H3XXX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
